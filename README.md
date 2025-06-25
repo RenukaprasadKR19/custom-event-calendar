@@ -98,8 +98,16 @@ custom-event-calendar/
 
 
 # Interface
-![Screenshot (77)](https://github.com/user-attachments/assets/b99a0afa-4da5-4ce3-af4c-19cb1c9c0036)
-![Screenshot (78)](https://github.com/user-attachments/assets/8a92b8d3-1a63-4e09-9d73-22b2a84e3d04)
+## 🖼️ Screenshots
+
+
+![Calendar Screenshot 1](https://raw.githubusercontent.com/RenukaprasadKR19/custom-event-calendar/069987996f9f28e475eaab57f1c7e4c67cbabeba/public/SCREEN%20SHORT/Screenshot%202025-06-25%20210152.png)
+
+
+![Calendar Screenshot 2](https://raw.githubusercontent.com/RenukaprasadKR19/custom-event-calendar/069987996f9f28e475eaab57f1c7e4c67cbabeba/public/SCREEN%20SHORT/Screenshot%202025-06-25%20210305.png)
+
+![Calendar Screenshot 3](https://raw.githubusercontent.com/RenukaprasadKR19/custom-event-calendar/069987996f9f28e475eaab57f1c7e4c67cbabeba/public/SCREEN%20SHORT/Screenshot%202025-06-25%20210458.png)
+
 
 
 
